@@ -1,1 +1,1 @@
-print("I am learning git")
+print("I am learning git.Because it's needed for my project")
